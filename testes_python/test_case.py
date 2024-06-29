@@ -110,5 +110,5 @@ def test_verifica_divisao():
     #assert
     assert acao is preparacao
 
-print ('deu certo')
+
      
